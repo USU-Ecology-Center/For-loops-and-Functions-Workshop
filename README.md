@@ -1,4 +1,4 @@
-## For-loops_and_Functions_Workshop
+## For-loops and Functions Workshop
 These materials were created for the USU Ecology Center Workshop on for-loops and functions. This is the instructor key for the workshop, but it is best taught as a live coding session, with active participation from the workshop participants.
 
 ## Outline
