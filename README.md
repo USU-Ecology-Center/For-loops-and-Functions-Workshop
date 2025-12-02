@@ -1,18 +1,13 @@
-## For-loops and Functions Workshop
-These materials were created for the USU Ecology Center Workshop on for-loops and functions. This is the instructor key for the workshop, but it is best taught as a live coding session, with active participation from the workshop participants.
+## For loops and apply() workshop
+This R script was created for the USU Ecology Center Workshop on for loops and the apply() family of functions. The script is typically emailed to workshop participants before the workshop. Participants follow along in the script and complete the exercises to practice building loops and selecting and running the apply() function.
 
-## Outline
-1. Iteration in R
-2. For-loops
-3. While loops
-4. Nested for-loops
-5. Loading data with loops
-6. lapply
-7. sapply
-8. Custom functions
-9. Split and bind_rows()
+## Topics
+* Writing for-loops
+* Writing custom functions
+* The pros and cons of for loops vs the apply family of functions
+* Combining iteration and custom functions for common data processing tasks
 
 ## Attribution
-Inspired by materials from [Brian Smith](https://github.com/bsmity13).
+Inspired by materials from [Brian Smith](https://github.com/bsmity13) and [Courtney Check](https://github.com/salamandermountain). 
 
 
